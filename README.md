@@ -10,16 +10,14 @@ ASUS-R542UF-Ventura-EFI by [@akikungz](https://github.com/akikungz)
 - Wifi + Bluetooth: Intel AX210
 
 ## Useable Function
-- LAN + Wifi
+- LAN + Wifi + Bluetooth
 - Display on HDMI (iGPU)
 - On board audio (Built-in Speaker)
-- USB2*1 + USB3*2 (HUB is work)
+- USB2*1 + USB3*2 + USB-C*1
 
 ## Unuseable Function
-- Bluetooth
 - HDMI Audio
-- 3.5mm Combo
-- USB-C*1
+- 3.5mm Combo (not auto switch/restart to work)
 - Sleep (Auto wake but sleep work on inactive)
   - Audio is not working on wake
   - Display not wake (Fix by [Command + F1])
