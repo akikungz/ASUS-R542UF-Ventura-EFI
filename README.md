@@ -13,7 +13,7 @@ ASUS-R542UF-Ventura-EFI by [@akikungz](https://github.com/akikungz)
 - LAN + Wifi + Bluetooth
 - Display on HDMI (iGPU)
 - On board audio (Built-in Speaker)
-- USB2*1 + USB3*2 + USB-C*1
+- USB2x1 + USB3x2 + USB-Cx1
 
 ## Unuseable Function
 - HDMI Audio
